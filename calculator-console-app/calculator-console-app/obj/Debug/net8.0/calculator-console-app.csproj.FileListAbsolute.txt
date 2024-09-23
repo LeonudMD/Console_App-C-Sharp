@@ -1,0 +1,14 @@
+C:\Users\Леонид Дмитриевич\Рабочий стол\Train-proj\calculator-console-app\calculator-console-app\bin\Debug\net8.0\calculator-console-app.exe
+C:\Users\Леонид Дмитриевич\Рабочий стол\Train-proj\calculator-console-app\calculator-console-app\bin\Debug\net8.0\calculator-console-app.deps.json
+C:\Users\Леонид Дмитриевич\Рабочий стол\Train-proj\calculator-console-app\calculator-console-app\bin\Debug\net8.0\calculator-console-app.runtimeconfig.json
+C:\Users\Леонид Дмитриевич\Рабочий стол\Train-proj\calculator-console-app\calculator-console-app\bin\Debug\net8.0\calculator-console-app.dll
+C:\Users\Леонид Дмитриевич\Рабочий стол\Train-proj\calculator-console-app\calculator-console-app\bin\Debug\net8.0\calculator-console-app.pdb
+C:\Users\Леонид Дмитриевич\Рабочий стол\Train-proj\calculator-console-app\calculator-console-app\obj\Debug\net8.0\calculator-console-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Леонид Дмитриевич\Рабочий стол\Train-proj\calculator-console-app\calculator-console-app\obj\Debug\net8.0\calculator-console-app.AssemblyInfoInputs.cache
+C:\Users\Леонид Дмитриевич\Рабочий стол\Train-proj\calculator-console-app\calculator-console-app\obj\Debug\net8.0\calculator-console-app.AssemblyInfo.cs
+C:\Users\Леонид Дмитриевич\Рабочий стол\Train-proj\calculator-console-app\calculator-console-app\obj\Debug\net8.0\calculator-console-app.csproj.CoreCompileInputs.cache
+C:\Users\Леонид Дмитриевич\Рабочий стол\Train-proj\calculator-console-app\calculator-console-app\obj\Debug\net8.0\calculator-console-app.dll
+C:\Users\Леонид Дмитриевич\Рабочий стол\Train-proj\calculator-console-app\calculator-console-app\obj\Debug\net8.0\refint\calculator-console-app.dll
+C:\Users\Леонид Дмитриевич\Рабочий стол\Train-proj\calculator-console-app\calculator-console-app\obj\Debug\net8.0\calculator-console-app.pdb
+C:\Users\Леонид Дмитриевич\Рабочий стол\Train-proj\calculator-console-app\calculator-console-app\obj\Debug\net8.0\calculator-console-app.genruntimeconfig.cache
+C:\Users\Леонид Дмитриевич\Рабочий стол\Train-proj\calculator-console-app\calculator-console-app\obj\Debug\net8.0\ref\calculator-console-app.dll
