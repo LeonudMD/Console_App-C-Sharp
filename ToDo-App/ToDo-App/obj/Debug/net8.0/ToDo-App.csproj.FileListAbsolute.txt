@@ -1,0 +1,14 @@
+C:\Users\1\Desktop\TrainProj_C-Sharp\ToDo-App\ToDo-App\bin\Debug\net8.0\ToDo-App.exe
+C:\Users\1\Desktop\TrainProj_C-Sharp\ToDo-App\ToDo-App\bin\Debug\net8.0\ToDo-App.deps.json
+C:\Users\1\Desktop\TrainProj_C-Sharp\ToDo-App\ToDo-App\bin\Debug\net8.0\ToDo-App.runtimeconfig.json
+C:\Users\1\Desktop\TrainProj_C-Sharp\ToDo-App\ToDo-App\bin\Debug\net8.0\ToDo-App.dll
+C:\Users\1\Desktop\TrainProj_C-Sharp\ToDo-App\ToDo-App\bin\Debug\net8.0\ToDo-App.pdb
+C:\Users\1\Desktop\TrainProj_C-Sharp\ToDo-App\ToDo-App\obj\Debug\net8.0\ToDo-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\TrainProj_C-Sharp\ToDo-App\ToDo-App\obj\Debug\net8.0\ToDo-App.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\TrainProj_C-Sharp\ToDo-App\ToDo-App\obj\Debug\net8.0\ToDo-App.AssemblyInfo.cs
+C:\Users\1\Desktop\TrainProj_C-Sharp\ToDo-App\ToDo-App\obj\Debug\net8.0\ToDo-App.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\TrainProj_C-Sharp\ToDo-App\ToDo-App\obj\Debug\net8.0\ToDo-App.dll
+C:\Users\1\Desktop\TrainProj_C-Sharp\ToDo-App\ToDo-App\obj\Debug\net8.0\refint\ToDo-App.dll
+C:\Users\1\Desktop\TrainProj_C-Sharp\ToDo-App\ToDo-App\obj\Debug\net8.0\ToDo-App.pdb
+C:\Users\1\Desktop\TrainProj_C-Sharp\ToDo-App\ToDo-App\obj\Debug\net8.0\ToDo-App.genruntimeconfig.cache
+C:\Users\1\Desktop\TrainProj_C-Sharp\ToDo-App\ToDo-App\obj\Debug\net8.0\ref\ToDo-App.dll
